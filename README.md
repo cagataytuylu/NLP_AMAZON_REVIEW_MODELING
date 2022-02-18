@@ -1,1 +1,1 @@
-# NLP_AMAZON_REVIEW_MODELING
+# NLP_Amazon_review_modeling
